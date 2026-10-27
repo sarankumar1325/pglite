@@ -1,5 +1,13 @@
 # @electric-sql/pglite-postgis
 
+## 0.2.13
+
+### Patch Changes
+
+- 2db5d2d: Upgrade emsdk to 6.0.5
+- Updated dependencies [2db5d2d]
+  - @electric-sql/pglite@0.5.13
+
 ## 0.2.12
 
 ### Patch Changes

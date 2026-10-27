@@ -1,5 +1,12 @@
 # @electric-sql/pglite-node-postgres
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated dependencies [2db5d2d]
+  - @electric-sql/pglite@0.5.13
+
 ## 0.0.2
 
 ### Patch Changes
